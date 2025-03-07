@@ -20,6 +20,5 @@ public class Vehicle {
     //call sportsdrivetsratgey,drive()
     public void drive(){
         dobjstrat.drive();
-
     }
 }
